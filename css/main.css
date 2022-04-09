@@ -994,27 +994,27 @@ html {
 .lp__freestyle-item--1::before {
   width: 25px;
   height: 31px;
-  background-image: url('/img/icon-freestyle-1.svg');
+  background-image: url('../img/icon-freestyle-1.svg');
 }
 .lp__freestyle-item--2::before {
   width: 29px;
   height: 32px;
-  background-image: url('/img/icon-freestyle-2.svg');
+  background-image: url('../img/icon-freestyle-2.svg');
 }
 .lp__freestyle-item--3::before {
   width: 29px;
   height: 32px;
-  background-image: url('/img/icon-freestyle-3.svg');
+  background-image: url('../img/icon-freestyle-3.svg');
 }
 .lp__freestyle-item--4::before {
   width: 23px;
   height: 38px;
-  background-image: url('/img/icon-freestyle-4.svg');
+  background-image: url('../img/icon-freestyle-4.svg');
 }
 .lp__freestyle-item--5::before {
   width: 27px;
   height: 27px;
-  background-image: url('/img/icon-freestyle-5.svg');
+  background-image: url('../img/icon-freestyle-5.svg');
 }
 .lp__elpr {
   width: 100%;
@@ -1091,7 +1091,7 @@ html {
 }
 .lp__elpr-eligibility-item::before {
   content: '';
-  background-image: url('/img/eligibility-check.svg');
+  background-image: url('../img/eligibility-check.svg');
   background-repeat: no-repeat;
   background-size: contain;
   width: 32px;
@@ -1315,11 +1315,11 @@ html {
 }
 
 .pay-apple::after {
-  background-image: url('/img/pay-apple.jpg');
+  background-image: url('../img/pay-apple.jpg');
 }
 
 .pay-google::after {
-  background-image: url('/img/pay-google.jpg');
+  background-image: url('../img/pay-google.jpg');
 }
 
 .noUi-base {
@@ -1389,7 +1389,7 @@ html {
 }
 .js-slider-amount .noUi-handle::after {
   position: absolute !important;
-  background-image: url('/img/icon-slider-handle.svg') !important;
+  background-image: url('../img/icon-slider-handle.svg') !important;
   background-size: cover !important;
   background-repeat: no-repeat !important;
   width: 10.6px !important;
